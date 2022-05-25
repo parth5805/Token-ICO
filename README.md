@@ -16,4 +16,4 @@ Combination of ERC20, Investment , Staking , RewardTokens, Liquidity Contracts
 
 ## To Run this dapp follow below link
 ***
-* [Steps to Deploy](https://example.com)
+* [Steps to Deploy](https://github.com/parth5805/Token-ICO/blob/master/Project%20STEPS%20and%20output%20SnapShot%20_%20MindDeft.pdf)
