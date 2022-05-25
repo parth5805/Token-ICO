@@ -3,8 +3,8 @@
 Combination of ERC20, Investment , Staking , RewardTokens, Liquidity Contracts
 
 # Here is the problem statement
-*Create ERC20 token “MINDPAY”
-*Contracts for accepting Investment through Ether with following  functionalities
+* Create ERC20 token “MINDPAY”
+* Contracts for accepting Investment through Ether with following  functionalities
   * 1 Ether = 1000 Mindpay
   * >1 & <5 Ether investment will have 10% bonus tokens
   * >5 Ether investment will have 20% bonus tokens 
